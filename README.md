@@ -1,4 +1,3 @@
-
 # 🚀 Akshat Shukla
 
 <p align="center">
@@ -85,45 +84,6 @@ Pytest • HTTPX
 
 ## Code Quality
 Black • Ruff • mypy
-
----
-
-# 🚀 Featured Project
-
-## Distributed AI Backend
-
-Production-grade event-driven AI backend featuring:
-
-- FastAPI API Gateway
-- PostgreSQL persistence
-- Redis caching
-- Kafka message bus
-- AI worker services
-- Dockerized deployment
-- Kubernetes ready
-- Observability with Prometheus + Grafana
-
-```mermaid
-flowchart TD
-A[Client] --> B[Nginx]
-B --> C[FastAPI]
-C --> D[(PostgreSQL)]
-C --> E[(Redis)]
-C --> F[Kafka]
-F --> G[AI Workers]
-G --> H[Transformers]
-G --> I[SentenceTransformers]
-```
-
----
-
-# 🎯 Current Mission
-
-- Build production-grade backend systems
-- Master Kubernetes
-- Master Distributed Systems
-- Excel in Backend Placements
-- Contribute to Open Source
 
 ---
 
