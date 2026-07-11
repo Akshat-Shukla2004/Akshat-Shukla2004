@@ -63,6 +63,12 @@ SYSTEM STATUS
 <img src="./assets/projects.svg" width="75%" alt="Projects"/>
 </p>
 
+<p align="center">
+
+> 🚧 **These are active work-in-progress projects.** Features are being added continuously, and the repositories are updated regularly as development progresses.
+
+</p>
+
 <table>
 <tr>
 <td width="50%" valign="top">
