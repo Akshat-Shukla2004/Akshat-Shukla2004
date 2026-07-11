@@ -61,6 +61,57 @@ SYSTEM STATUS
 
 ---
 
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h2>🤖 Distributed AI Backend</h2>
+
+Production-grade backend built with a distributed microservices architecture.
+
+### ✨ Highlights
+
+- ⚡ FastAPI + AsyncIO
+- 📨 Apache Kafka
+- 🗄 PostgreSQL + Redis
+- 🐳 Docker + Kubernetes
+- 📊 Prometheus + Grafana
+- 🤖 AI Worker Services
+- 🔐 JWT Authentication
+
+<a href="https://github.com/Akshat-Shukla2004/distributed-ai-backend">
+<img src="https://img.shields.io/badge/View_Project-7c3aed?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h2>📈 LeetCode Competition Bot</h2>
+
+Telegram bot that keeps competitive programmers consistent.
+
+### ✨ Features
+
+- 🔔 Daily LeetCode reminders
+- 👥 Friend activity tracking
+- 🏆 Contest notifications
+- ⚙ GitHub Actions automation
+- 🐍 Built entirely in Python
+
+<a href="https://github.com/Akshat-Shukla2004/lc-competition-bot">
+<img src="https://img.shields.io/badge/View_Project-7c3aed?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
 # 📈 GitHub Analytics
 
 <p align="center">
