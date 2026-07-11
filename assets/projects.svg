@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="110" viewBox="0 0 900 110">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#8B5CF6"/>
+<stop offset="50%" stop-color="#C770F0"/>
+<stop offset="100%" stop-color="#22D3EE"/>
+</linearGradient>
+<filter id="glow">
+<feGaussianBlur stdDeviation="4" result="blur"/>
+<feMerge>
+<feMergeNode in="blur"/>
+<feMergeNode in="SourceGraphic"/>
+</feMerge>
+</filter>
+</defs>
+
+<rect width="900" height="110" rx="16"
+fill="#161B22"
+stroke="url(#g)"
+stroke-width="2"/>
+
+<!-- circuit traces -->
+<g opacity="0.22" stroke="#22D3EE" stroke-width="2" fill="none">
+<path d="M40 55 H180 V25 H290"/>
+<path d="M860 55 H720 V85 H610"/>
+<circle cx="180" cy="55" r="3" fill="#C770F0"/>
+<circle cx="720" cy="55" r="3" fill="#C770F0"/>
+</g>
+
+<!-- title -->
+<text x="450"
+y="67"
+text-anchor="middle"
+font-family="Segoe UI,Arial"
+font-size="34"
+font-weight="700"
+fill="url(#g)"
+filter="url(#glow)">
+FEATURED PROJECTS
+</text>
+
+<!-- animated hex -->
+<polygon
+points="450,18 465,27 465,45 450,54 435,45 435,27"
+fill="none"
+stroke="#22D3EE"
+stroke-width="2">
+<animateTransform
+attributeName="transform"
+attributeType="XML"
+type="rotate"
+from="0 450 36"
+to="360 450 36"
+dur="10s"
+repeatCount="indefinite"/>
+</polygon>
+
+<!-- scanline -->
+<rect x="-180"
+y="0"
+width="140"
+height="110"
+fill="#ffffff"
+opacity="0.05">
+<animate attributeName="x"
+values="-180;980"
+dur="6s"
+repeatCount="indefinite"/>
+</rect>
+
+</svg>
