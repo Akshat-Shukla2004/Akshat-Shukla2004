@@ -71,7 +71,6 @@ SYSTEM STATUS
 <p align="center">
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Akshat-Shukla2004&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
----
 
 # ⚙️ Tech Arsenal
 
@@ -148,7 +147,6 @@ SYSTEM STATUS
 
 ---
 
----
 
 <h2 align="center">⚡ Always Building</h2>
 
