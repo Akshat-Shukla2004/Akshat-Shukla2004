@@ -61,7 +61,7 @@ SYSTEM STATUS
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Work-In_progress Projects
 
 <table>
 <tr>
