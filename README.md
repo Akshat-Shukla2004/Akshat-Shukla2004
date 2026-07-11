@@ -72,7 +72,7 @@ SYSTEM STATUS
 
 <p align="center">
 
-<table width="82%">
+<table align="center" width="82%">
 <tr>
 
 <td width="50%" valign="top">
