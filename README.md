@@ -60,20 +60,27 @@ SYSTEM STATUS
 <p align="center"><img src="./assets/divider.svg" width="100%"/></p>
 
 <p align="center">
-<img src="./assets/projects.svg" width="75%" alt="Projects"/>
+  <img src="./assets/projects.svg" width="65%" alt="Projects"/>
 </p>
 
 <p align="center">
 
-> 🚧 **These are active work-in-progress projects.** Features are being added continuously, and the repositories are updated regularly as development progresses.
+> 🚧 **Active Development**  
+> These production-oriented projects are continuously evolving with new features, testing, and deployment improvements.
 
 </p>
 
-<table>
+<p align="center">
+
+<table width="82%">
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🤖 Distributed AI Backend
+
+![Status](https://img.shields.io/badge/Status-Active%20Development-C770F0?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-22D3EE?style=flat-square)
 
 Production-grade distributed backend.
 
@@ -86,7 +93,7 @@ Production-grade distributed backend.
 - 🔐 JWT Authentication
 
 <a href="https://github.com/Akshat-Shukla2004/distributed-ai-backend">
-<img src="https://img.shields.io/badge/View_Project-7c3aed?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/View_Project-C770F0?style=for-the-badge"/>
 </a>
 
 </td>
@@ -94,6 +101,9 @@ Production-grade distributed backend.
 <td width="50%" valign="top">
 
 ### 📈 LeetCode Competition Bot
+
+![Status](https://img.shields.io/badge/Status-Maintained-C770F0?style=flat-square)
+![Python](https://img.shields.io/badge/Python-Automation-22D3EE?style=flat-square)
 
 Telegram automation for competitive programming.
 
@@ -104,12 +114,19 @@ Telegram automation for competitive programming.
 - 🐍 Python
 
 <a href="https://github.com/Akshat-Shukla2004/lc-competition-bot">
-<img src="https://img.shields.io/badge/View_Project-7c3aed?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/View_Project-C770F0?style=for-the-badge"/>
 </a>
 
 </td>
+
 </tr>
 </table>
+
+</p>
+
+<p align="center">
+<img src="./assets/divider.svg" width="100%"/>
+</p>
 
 <p align="center"><img src="./assets/divider.svg" width="100%"/></p>
 
