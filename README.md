@@ -41,12 +41,12 @@ Backend Engineer • Competitive Programmer • Distributed Systems • AI Infra
 # 📈 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Akshat-Shukla2004&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-  <img height="170" src="https://streak-stats.demolab.com?user=Akshat-Shukla2004&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Akshat-Shukla2004&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=Akshat-Shukla2004&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat-Shukla2004&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Akshat-Shukla2004&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 ---
 
