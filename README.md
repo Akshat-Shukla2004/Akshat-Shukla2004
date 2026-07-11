@@ -77,6 +77,13 @@ Pytest • HTTPX
 Black • Ruff • mypy
 
 ---
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Akshat-Shukla2004/Akshat-Shukla2004/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 # 📫 Connect
 
