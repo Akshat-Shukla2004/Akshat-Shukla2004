@@ -1,28 +1,51 @@
-# 🚀 Akshat Shukla
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=C770F0&center=true&vCenter=true&width=900&lines=Backend+Engineer;Competitive+Programmer;Distributed+Systems+Enthusiast;AI+Infrastructure+Builder;FastAPI+%7C+Kafka+%7C+Redis+%7C+Kubernetes" />
+  <img src="./assets/banner.svg" alt="Akshat Shukla Banner" width="100%"/>
 </p>
-
 <p align="center">
 Backend Engineer • Competitive Programmer • Distributed Systems • AI Infrastructure
 </p>
 
+<h2 align="center">🧠 Backend Philosophy</h2>
+
+<p align="center">
+I enjoy building scalable backend systems that prioritize
+<b>clean architecture</b>, <b>observability</b>,
+<b>fault tolerance</b>, and <b>performance</b>.
+My current focus is <b>distributed AI infrastructure</b>,
+<b>event-driven microservices</b>, and
+<b>cloud-native deployments</b> using FastAPI,
+Kafka, PostgreSQL, Redis, and Kubernetes.
+</p>
+<img src="https://komarev.com/ghpvc/?username=Akshat-Shukla2004&label=Profile%20Views&color=7c3aed&style=for-the-badge"/>
+</p>
+
 ---
+
 
 # ⚡ System Status
 
 ```text
-[ ONLINE ] LeetCode
-[ ONLINE ] Codeforces
-[ ACTIVE ] FastAPI
-[ ACTIVE ] PostgreSQL
-[ ACTIVE ] Redis
-[ ACTIVE ] Kafka
-[ ACTIVE ] Docker
-[ LEARNING ] Kubernetes
-```
+╔════════════════════════════════════╗
 
+SYSTEM STATUS
+
+🟢 LeetCode
+
+🟢 Codeforces
+
+🟢 FastAPI
+
+🟢 PostgreSQL
+
+🟢 Redis
+
+🟢 Kafka
+
+🟢 Docker
+
+
+╚════════════════════════════════════╝
+```
 ---
 
 # 🏆 Competitive Programming
@@ -50,34 +73,52 @@ Backend Engineer • Competitive Programmer • Distributed Systems • AI Infra
 </p>
 ---
 
-# 🛠 Tech Stack
+# ⚙️ Tech Arsenal
 
-## Backend
-Python • FastAPI • Uvicorn • JWT • Pydantic
+<p align="center">
 
-## Databases
-PostgreSQL • SQLAlchemy 2.0 • Alembic • Redis
+### 🚀 Backend
 
-## Distributed Systems
-Apache Kafka • Event Driven Architecture • Async Workers
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,kubernetes,git,github&theme=dark" />
 
-## AI
-Transformers • SentenceTransformers • OpenAI API
+</p>
 
-## DevOps
-Docker • Docker Compose • Kubernetes • Nginx • GitHub Actions • AWS EC2
+<p align="center">
 
-## Observability
-Prometheus • Grafana • OpenTelemetry
+### 📡 Distributed Systems
 
-## Testing
-Pytest • HTTPX
+<img src="https://go-skill-icons.vercel.app/api/icons?i=kafka,nginx,prometheus,grafana&theme=dark" />
 
-## Code Quality
-Black • Ruff • mypy
+</p>
+
+<p align="center">
+
+### 🤖 AI / ML
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,huggingface&theme=dark" />
+
+</p>
+
+<p align="center">
+
+### 🛠 Tools
+
+<img src="https://skillicons.dev/icons?i=aws,bash,vscode,linux,githubactions&theme=dark" />
+
+</p>
 
 ---
----
+
+<h2 align="center">🎯 Current Focus</h2>
+
+<p align="center">
+
+🚀 Kubernetes<br>
+🚀 Distributed Systems<br>
+🚀 Production Backend Engineering<br>
+🚀 AI Infrastructure
+
+</p>
 
 # 🐍 Contribution Snake
 
@@ -85,13 +126,36 @@ Black • Ruff • mypy
   <img src="https://raw.githubusercontent.com/Akshat-Shukla2004/Akshat-Shukla2004/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
-# 📫 Connect
+<p align="center">
 
-- LinkedIn: https://www.linkedin.com/in/akshat-shukla-a0377a290
-- Email: shukla.aksh18@gmail.com
-- LeetCode: https://leetcode.com/u/AkshatPrep/
-- Codeforces: https://codeforces.com/profile/shukla.aksh18
+<a href="https://www.linkedin.com/in/akshat-shukla-a0377a290">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/AkshatPrep/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://codeforces.com/profile/shukla.aksh18">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge"/>
+</a>
+
+<a href="mailto:shukla.aksh18@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-> *"Building scalable backend systems, one service at a time."*
+---
+
+<h2 align="center">⚡ Always Building</h2>
+
+<p align="center">
+
+<i>
+"Building scalable systems today that can survive production tomorrow."
+</i>
+
+</p>
