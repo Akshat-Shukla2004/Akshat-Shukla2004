@@ -53,10 +53,6 @@ SYSTEM STATUS
 <img src="https://leetcard.jacoblin.cool/AkshatPrep?theme=dark&font=Nunito&ext=contest"/>
 </p>
 
-<p align="center">
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=shukla.aksh18&theme=github_dark"/>
-</p>
-
 <p align="center"><img src="./assets/divider.svg" width="100%"/></p>
 
 <p align="center">
