@@ -25,25 +25,6 @@ and <b>cloud-native deployments</b> using FastAPI, Kafka, PostgreSQL, Redis, and
 
 <p align="center"><img src="./assets/divider.svg" width="100%"/></p>
 
-## ⚡ System Status
-
-```text
-╔════════════════════════════════════╗
-SYSTEM STATUS
-
-🟢 LeetCode
-🟢 Codeforces
-🟢 FastAPI
-🟢 PostgreSQL
-🟢 Redis
-🟢 Kafka
-🟢 Docker
-
-╚════════════════════════════════════╝
-```
-
-<p align="center"><img src="./assets/divider.svg" width="100%"/></p>
-
 <p align="center">
 <img src="./assets/competitive.svg" width="75%" alt="Competitive Programming"/>
 </p>
