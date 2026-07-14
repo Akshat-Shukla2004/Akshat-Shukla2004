@@ -123,8 +123,6 @@ Telegram automation for competitive programming.
 <img src="./assets/divider.svg" width="100%"/>
 </p>
 
-<p align="center"><img src="./assets/divider.svg" width="100%"/></p>
-
 <p align="center">
 <img src="./assets/github.svg" width="75%" alt="GitHub Analytics"/>
 </p>
