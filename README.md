@@ -38,7 +38,6 @@ SYSTEM STATUS
 🟢 Redis
 🟢 Kafka
 🟢 Docker
-🟡 Kubernetes (Learning)
 
 ╚════════════════════════════════════╝
 ```
@@ -135,9 +134,6 @@ Telegram automation for competitive programming.
 <img height="170" src="https://streak-stats.demolab.com?user=Akshat-Shukla2004&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Akshat-Shukla2004&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 <p align="center"><img src="./assets/divider.svg" width="100%"/></p>
 
