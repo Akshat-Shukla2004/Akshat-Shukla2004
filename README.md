@@ -23,8 +23,6 @@ and <b>cloud-native deployments</b> using FastAPI, Kafka, PostgreSQL, Redis, and
 <img src="https://komarev.com/ghpvc/?username=Akshat-Shukla2004&label=Profile%20Views&color=7c3aed&style=for-the-badge"/>
 </p>
 
-<p align="center"><img src="./assets/divider.svg" width="100%"/></p>
-
 <p align="center">
 <img src="./assets/competitive.svg" width="75%" alt="Competitive Programming"/>
 </p>
@@ -32,8 +30,6 @@ and <b>cloud-native deployments</b> using FastAPI, Kafka, PostgreSQL, Redis, and
 <p align="center">
 <img src="https://leetcard.jacoblin.cool/AkshatPrep?theme=dark&font=Nunito&ext=contest"/>
 </p>
-
-<p align="center"><img src="./assets/divider.svg" width="100%"/></p>
 
 <p align="center">
   <img src="./assets/projects.svg" width="65%" alt="Projects"/>
@@ -76,20 +72,21 @@ Production-grade distributed backend.
 
 <td width="50%" valign="top">
 
-### 📈 LeetCode Competition Bot
+### 📈 LeetCode Activity Tracker
 
 ![Status](https://img.shields.io/badge/Status-Maintained-C770F0?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-Automation-22D3EE?style=flat-square)
 
-Telegram automation for competitive programming.
+Production-oriented tracker for monitoring LeetCode activity and sending Telegram notifications.
 
-- 🔔 Daily reminders
-- 👥 Friend tracking
-- 🏆 Contest alerts
-- ⚙ GitHub Actions
-- 🐍 Python
+- 📬 Telegram notifications
+- 👥 Multi-user tracking
+- 🧠 LeetCode GraphQL API
+- 💾 Persistent state
+- ⚙️ GitHub Actions
+- 🐳 Docker support
 
-<a href="https://github.com/Akshat-Shukla2004/lc-competition-bot">
+<a href="https://github.com/Akshat-Shukla2004/leetcode-activity-tracker">
 <img src="https://img.shields.io/badge/View_Project-C770F0?style=for-the-badge"/>
 </a>
 
@@ -113,8 +110,6 @@ Telegram automation for competitive programming.
 <img height="170" src="https://streak-stats.demolab.com?user=Akshat-Shukla2004&theme=tokyonight&hide_border=true"/>
 </p>
 
-
-<p align="center"><img src="./assets/divider.svg" width="100%"/></p>
 
 <p align="center">
 <img src="./assets/tech.svg" width="75%" alt="Tech"/>
@@ -140,8 +135,6 @@ Telegram automation for competitive programming.
 <img src="https://skillicons.dev/icons?i=aws,bash,vscode,linux,githubactions&theme=dark"/>
 </p>
 
-<p align="center"><img src="./assets/divider.svg" width="100%"/></p>
-
 <h2 align="center">🎯 Current Focus</h2>
 
 <p align="center">
@@ -150,8 +143,6 @@ Telegram automation for competitive programming.
 🚀 Production Backend Engineering<br>
 🚀 AI Infrastructure
 </p>
-
-<p align="center"><img src="./assets/divider.svg" width="100%"/></p>
 
 ## 🐍 Contribution Snake
 
