@@ -98,7 +98,6 @@ Production-oriented tracker for monitoring LeetCode activity and sending Telegra
 </p>
 
 <p align="center">
-<img src="./assets/divider.svg" width="100%"/>
 </p>
 
 <p align="center">
