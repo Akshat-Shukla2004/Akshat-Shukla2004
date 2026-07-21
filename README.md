@@ -106,8 +106,10 @@ Production-oriented tracker for monitoring LeetCode activity and sending Telegra
 
 <p align="center">
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Akshat-Shukla2004&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://streak-stats.demolab.com?user=Akshat-Shukla2004&theme=tokyonight&hide_border=true"/>
-</p>
+<img
+  height="170"
+  src="https://github-readme-streak-stats-eight.vercel.app/?user=Akshat-Shukla2004&theme=tokyonight&hide_border=true"
+/>
 
 
 <p align="center">
